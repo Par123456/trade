@@ -27,8 +27,8 @@ ERROR_LOG_FILE = "error_logs.txt"
 CHART_DIR = "charts"
 BACKTEST_FILE = "backtest_results.json"
 DEFAULT_CONFIG = {
-    "telegram_token": "YOUR_TELEGRAM_TOKEN",
-    "chat_id": "YOUR_CHAT_ID",
+    "telegram_token": "8145688023:AAHbPn6QgO1t7tQUnS2-kRx7FDoO0mr15tE",
+    "chat_id": "6508600903",
     "symbols": ["SHIB/USDT", "BONK/USDT", "DOGE/USDT", "PEPE/USDT"],
     "timeframe": "15m",
     "higher_timeframe": "1h",  # برای تحلیل چند تایم‌فریمی
